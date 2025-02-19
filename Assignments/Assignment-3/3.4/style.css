@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(75, 75, 75);
+    color: rgb(203, 211, 117);
+    font-size: 25px;
+}
+.d1{
+    background-color: rgb(69, 116, 114);
+    height: 75vh;
+    width: 50vw;
+    margin: 4% 22%;
+    padding: 30px;
+}
+.alignment{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+}
+
+.t-cont{
+    background-color: rgb(13, 97, 75);
+    height: 15%;
+    width: 100%;
+    margin-bottom: 25px;
+}
+.m-cont{
+    background-color: rgb(69, 116, 114);
+    height: 60%;
+    width: 100%;
+    display: flex;
+    margin-bottom: 25px;
+}
+.m-l-cont{
+    background-color: green;
+    height: 100%;
+    width: 25%;
+    margin-right: 25px;
+}
+.m-r-cont{
+    background-color: rgb(165, 93, 11);
+    height: 100%;
+    width: 75%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: end;
+}
+.m-r-l-cont{
+    background-color: rgb(157, 170, 42);
+    height: 38%;
+    width: 28%;
+    margin-bottom: 25px;
+}
+.m-r-m-cont{
+    background-color: rgb(157, 170, 42);
+    height: 38%;
+    width: 28%;
+    margin-bottom: 25px;
+
+}
+.m-r-r-cont{
+    background-color: rgb(157, 170, 42);
+    height: 38%;
+    width: 28%;
+    margin-bottom: 25px;
+
+}
+
+
+
+
+
+
+
+.b-cont{
+    background-color: rgb(8, 105, 73);
+    height: 15%;
+    width: 100%;
+}
